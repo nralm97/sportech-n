@@ -1,4 +1,4 @@
-# dirac-sportech
+# FOOTBAL PROJECTS
 
 - Football data Analysis
 - Database: Statsbomb, Wyscout
